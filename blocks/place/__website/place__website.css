@@ -1,0 +1,10 @@
+.place__website {
+    align-self: end;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 525px) {
+    .place__website {
+        display: none;
+    }
+}

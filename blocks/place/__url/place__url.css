@@ -1,0 +1,9 @@
+.place__url {
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #AAAAAA;
+    margin: 0 0 16px 0;
+    font-weight: normal;
+    /* outline: 1px solid rgb(255, 94, 0); */
+}

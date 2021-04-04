@@ -1,0 +1,7 @@
+.header {
+    display: flex;
+    /* position: relative; */
+    /* outline: 1px solid rgb(255, 94, 0); */
+    display: flex;
+    justify-content: space-between;
+}
